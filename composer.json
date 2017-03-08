@@ -1,0 +1,33 @@
+{
+  "name": "granam/emojione-micro",
+  "type": "library",
+  "description": "Extracted Emoji One CSS and converters in PHP / Python / JS / Meteor / Awesome font.",
+  "keywords": [
+    "emojione",
+    "Emoji One",
+    "emoji",
+    "emojis",
+    "emoticons",
+    "smileys",
+    "smilies",
+    "unicode",
+    "micro",
+    "small",
+    "minified",
+    "PHP",
+    "Python"
+  ],
+  "homepage": "http://www.emojione.com",
+  "license": "(CC-BY-4.0 and MIT)",
+  "autoload": {
+    "psr-4": {
+      "Emojione\\": "lib/php/src"
+    }
+  },
+  "require": {
+    "php": ">=5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.6 || ~5.0"
+  }
+}
