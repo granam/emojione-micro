@@ -19,6 +19,9 @@ This library provides only CSS to style EmojiOne and tools in [few languages](./
 $ composer require granam/emojione-micro
 ```
 
+##### Note about namespace
+The original `Emojione` namespace is used to provide compatibility and made eventual switch to original library easier.
+
 ## Where is the original?
 
 This library is just a piece of large [official library](https://github.com/Ranks/emojione).
