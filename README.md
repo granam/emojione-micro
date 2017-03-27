@@ -24,8 +24,9 @@ The original `Emojione` namespace is used to provide compatibility and made even
 
 ## Where is the original?
 
-This library is just a piece of large [official library](https://github.com/Ranks/emojione).
-Whatever you think you need, you will find there.
+This library is just an extraction of large [official library](https://github.com/Ranks/emojione) of version 2.2.7
+(original latest version is [![Latest Stable Version](https://poser.pugx.org/emojione/emojione/v/stable)](https://packagist.org/packages/emojione/emojione)).
+Whatever you think you need, you will find it there.
 
 ## PHP Usage Examples
 
